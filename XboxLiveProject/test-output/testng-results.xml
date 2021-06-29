@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9352" started-at="2021-06-29T09:42:29 CDT" finished-at="2021-06-29T09:42:39 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9352" started-at="2021-06-29T09:42:29 CDT" finished-at="2021-06-29T09:42:39 CDT">
+      <class name="TopGamerValidation">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TopGamerValidation@7a1ebcd8]" name="launchBrowser" is-config="true" duration-ms="5883" started-at="2021-06-29T09:42:29 CDT" finished-at="2021-06-29T09:42:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="numberOne()[pri:0, instance:TopGamerValidation@7a1ebcd8]" name="numberOne" duration-ms="100" started-at="2021-06-29T09:42:35 CDT" finished-at="2021-06-29T09:42:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOne -->
+        <test-method status="PASS" signature="numberTwo()[pri:1, instance:TopGamerValidation@7a1ebcd8]" name="numberTwo" duration-ms="56" started-at="2021-06-29T09:42:35 CDT" finished-at="2021-06-29T09:42:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberTwo -->
+        <test-method status="PASS" signature="numberThree()[pri:2, instance:TopGamerValidation@7a1ebcd8]" name="numberThree" duration-ms="76" started-at="2021-06-29T09:42:35 CDT" finished-at="2021-06-29T09:42:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberThree -->
+        <test-method status="PASS" signature="numberFour()[pri:3, instance:TopGamerValidation@7a1ebcd8]" name="numberFour" duration-ms="75" started-at="2021-06-29T09:42:36 CDT" finished-at="2021-06-29T09:42:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberFour -->
+        <test-method status="PASS" signature="numberFive()[pri:4, instance:TopGamerValidation@7a1ebcd8]" name="numberFive" duration-ms="60" started-at="2021-06-29T09:42:36 CDT" finished-at="2021-06-29T09:42:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberFive -->
+        <test-method status="PASS" signature="validateGames()[pri:5, instance:TopGamerValidation@7a1ebcd8]" name="validateGames" duration-ms="2184" started-at="2021-06-29T09:42:36 CDT" finished-at="2021-06-29T09:42:38 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGames -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TopGamerValidation@7a1ebcd8]" name="CloseBrowser" is-config="true" duration-ms="890" started-at="2021-06-29T09:42:38 CDT" finished-at="2021-06-29T09:42:39 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TopGamerValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
